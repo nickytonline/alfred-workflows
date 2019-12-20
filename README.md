@@ -13,5 +13,6 @@ Hopefully useful workflows for Alfred.
 
 ## Snippets
 
+* [dev.to](https://dev.to) canned responses. Friendly messages to DEV members
 * [dev.to](https://dev.to) moderator canned responses. Almost all canned responses are from [@codemouse92's gist for canned responses](https://gist.github.com/CodeMouse92/97f92e12dfa6d766069ad0ccb87e827c#file-comments-md).
 
